@@ -56,13 +56,18 @@ https://discord.gg/d6vP5D4cew <br>
 
 ---
 ## How to buy
-- **Contact d2bugs**<br>
+- We accept payements in BTC & ETH **ONLY** <br>
+
+## Who to contact ?
+#### Join our Discord Server
+[W4LLB4NG3D](https://discord.gg/d6vP5D4cew)
+#### Or DM &darr;
 ![D2BUGS](https://img.shields.io/badge/D2BUGS%239108-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
 ![D2BUGS](https://img.shields.io/badge/D2BUGS-%237289DA.svg?style=for-the-badge&logo=medium&logoColor=black&labelcolor=white&color=white)<br>
-![https://www.instagram.com/d2bugs/](https://img.shields.io/badge/D2BUGS-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=pink&labelcolor=grey&color=grey)<br>
+![D2BUGS](https://img.shields.io/badge/D2BUGS-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=pink&labelcolor=grey&color=grey)<br>
  
 ## Installation
-[Download](https://github.com/d2bugs/W4LLB4NG3D/releases/download/1.5-F/CL.exe) & run the file, adjust settings, use.
+[Download](https://asba_belek_mssayba_heya_akkeka).
 
 ---
 
