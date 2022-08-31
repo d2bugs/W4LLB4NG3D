@@ -53,7 +53,8 @@ https://discord.gg/d6vP5D4cew <br>
 ---
 ## How to buy
 - We accept payements in BTC & ETH **ONLY** <br>
-
+![BTC](https://img.shields.io/badge/BTC-btcAdressHere-brightgreen)<br>
+![ETH](https://img.shields.io/badge/ETH-ethAdressHere-brightgreen)<br>
 
 ## Who to contact ?
 #### Join our Discord Server
