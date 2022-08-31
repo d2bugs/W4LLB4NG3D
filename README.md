@@ -48,11 +48,11 @@ https://discord.gg/d6vP5D4cew <br>
 ---
 
 ## Menu Preview
-![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/ui/MENU.png)
+![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/menu/menu.png)
 
 ## ESP Preview
-![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.40.03.98.png)
-![2](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/esp/Valorant_Screenshot_2022.08.12_-_17.39.23.65.png)
+![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/esp/range_esp.png)
+![2](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/esp/ingame_esp.png)
 
 ---
 ## How to buy
