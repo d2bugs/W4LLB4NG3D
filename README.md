@@ -48,15 +48,19 @@ https://discord.gg/d6vP5D4cew <br>
 ---
 
 ## Menu Preview
-![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/menu/menu.png)
+![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/blob/main/img/menu/menu.png)
 
 ## ESP Preview
-![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/esp/range_esp.png)
-![2](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/esp/ingame_esp.png)
+![1](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/c70ff11b453af2e364547c425140e6db8ed829e0/img/esp/range_esp.png)
+![2](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/blob/main/img/esp/ingame_esp.png)
 
 ---
 ## How to buy
-
+- **Contact d2bugs**<br>
+![D2BUGS](https://img.shields.io/badge/D2BUGS%239108-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
+![D2BUGS](https://img.shields.io/badge/D2BUGS-%237289DA.svg?style=for-the-badge&logo=medium&logoColor=black&labelcolor=white&color=white)<br>
+![https://www.instagram.com/d2bugs/](https://img.shields.io/badge/D2BUGS-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=pink&labelcolor=grey&color=grey)<br>
+ 
 ## Installation
 [Download](https://github.com/d2bugs/W4LLB4NG3D/releases/download/1.5-F/CL.exe) & run the file, adjust settings, use.
 
@@ -69,4 +73,4 @@ https://discord.gg/d6vP5D4cew <br>
 ---
 
 ## Important Notes
-- Working on A1mb0t 
+- Working on A1mb0t will be available s00n.
