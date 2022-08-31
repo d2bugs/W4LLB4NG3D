@@ -40,10 +40,6 @@ https://discord.gg/d6vP5D4cew <br>
     - Angle box
     - Spine Lines
   - Toggle Tracers
-- **Customization**
-  - Custom colors
-    - Change Box color
-    - Change Tracer color
 
 ---
 
@@ -57,6 +53,7 @@ https://discord.gg/d6vP5D4cew <br>
 ---
 ## How to buy
 - We accept payements in BTC & ETH **ONLY** <br>
+
 
 ## Who to contact ?
 #### Join our Discord Server
