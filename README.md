@@ -1,8 +1,8 @@
 # W4LLB4NG3D
 [![W4LLB4NG3D](https://raw.githubusercontent.com/d2bugs/W4LLB4NG3D/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
 <br>
-W4LLB4NG3D is a W4LLH4CK for the game VALORANT.
-W4LLB4NG3D comes with features like ESPs, Tracers, Health bars and distance calculator.
+**W4LLB4NG3D** is a W4LLH4CK for the game VALORANT.<br>
+**W4LLB4NG3D** comes with features like ESPs, Tracers, Health bars and distance calculator.
 
 ### Made by
 ![D2BUGS](https://img.shields.io/badge/D2BUGS%239108-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
